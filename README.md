@@ -1,6 +1,6 @@
 # Dedicate-data-from-fb
 
-## FB costco社團豹蟲
+## FB costco社團爬蟲
 <br>
 使用selenium中的webdriver，打開瀏覽器之前要先取的網址
 fb屬於動態網頁，
