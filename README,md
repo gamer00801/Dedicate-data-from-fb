@@ -1,7 +1,0 @@
-## FB costco社團爬蟲
-<hr>
-使用selenium中的webdriver，開啟瀏覽器前往要爬取的網址
-fb屬於動態式網頁，
-要使用driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")模擬滑鼠滾動，
-使用迴圈滾動並展開每一則貼文以及留言後，
-一次爬取全部貼文以及留言並存放在CSV檔。
