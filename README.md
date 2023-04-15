@@ -1,7 +1,7 @@
 # Dedicate-data-from-fb
 
 ## FB costco社團豹蟲
-<小時>
+<br>
 使用selenium中的webdriver，打開瀏覽器之前要先取的網址
 fb屬於動態網頁，
 要使用driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")模擬滑鼠滾動，
